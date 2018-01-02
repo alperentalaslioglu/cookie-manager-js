@@ -94,5 +94,6 @@ Clears all of the existing cookies
   CookieManager.clear();
 ```
 
-
+## Author and License
+Created and maintained by [Alperen](https://github.com/alperentalaslioglu) under [MIT](LICENCE.md) License
 
