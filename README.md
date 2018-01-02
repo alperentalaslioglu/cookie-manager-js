@@ -80,7 +80,19 @@ Deleting a cookie with given cookie name
 
 ### Listing All Cookies
 
+Returns all of the existing cookies
+
+```js
+  CookieManager.getAll();
+```
+
 ### Clearing All Cookies
+
+Clears all of the existing cookies
+
+```js
+  CookieManager.clear();
+```
 
 
 
