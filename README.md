@@ -9,3 +9,11 @@ This is a cookie library which provides easy and powerful functions to manage yo
 - Supports AMD, CommonJS and Node modules
 - Lightweight 1 KB
 - Supported by all browsers
+
+
+## Installation 
+Download the `cookie-manager.min.js` and include in your project
+
+```html
+<script src="cookie-manager.min.js"></script>
+```
