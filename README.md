@@ -24,4 +24,26 @@ After include the `cookie-manager.min.js`, you will be able to use `CookieManage
 You can also load `CookieManager` object as an AMD, CommonJS or Node module
 
 
+## Functionalities
+
+### Creating a Cookie
+
+Creating a new cookie
+
+```js
+  CookieManager.set(name, value, expires, domain, path, secure);
+```
+
+
+### Retrieving a Cookie
+
+### Updating a Cookie
+
+### Deleting a Cookie
+
+### Listing All Cookies
+
+### Clearing All Cookies
+
+
 
