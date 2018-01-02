@@ -34,6 +34,13 @@ Creating a new cookie
   CookieManager.set(name, value, expires, domain, path, secure);
 ```
 
+- `name (String)` cookie name
+- `value (String)` cookie value
+- `expires (Optional) (Number)` cookie expiration in days
+- `domain (Optional)  (String)` cookie domain
+- `path (Optional)  (String)` cookie path
+- `secure (Optional)  (Boolean)` cookie ssl support flag
+
 
 ### Retrieving a Cookie
 
